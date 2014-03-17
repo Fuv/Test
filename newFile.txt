@@ -1,1 +1,2 @@
 my File
+zmiana w pliku w newBranch
